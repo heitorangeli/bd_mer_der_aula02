@@ -1,1 +1,1 @@
-# bd_mer_der_aula02
+# Atividades realizadas na matéria de Banco de Dados
